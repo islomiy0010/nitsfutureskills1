@@ -1,0 +1,38 @@
+*{margin:auto;padding:0;}
+
+#full
+{
+    width: 1210px;
+    /* height: 800px; */
+    text-align: center;
+    border-width: 3px;
+    border: 5px solid blue;
+}
+#begin
+{
+    width: 1200px;
+    height: 200px;
+    background: chartreuse;
+    text-decoration: cornflowerblue;
+    border: 5px solid red;
+    padding-top: 120px;
+}
+#body
+{
+    width: 1205px;
+    /* height: 800px; */
+    border: 5px solid royalblue;
+    margin: auto;
+    background: seagreen;
+    font-size: 70px;
+    padding: auto;
+}
+#end
+{
+    width: 1205px;
+    height: 200px;
+    color: slateblue;
+    background:tomato;
+    font-size: 30px;
+    padding-top: 100px;
+}
